@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Supervise** maintenance teams; Management; piloting; database supervision; aircraft platform & ground *systems management*
